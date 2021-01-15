@@ -10,4 +10,4 @@ tweaked readme
 
 Updates made on main on Github before rebase
 
-locally pull conflict
+editing for pull conflight remotely
